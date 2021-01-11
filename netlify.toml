@@ -1,0 +1,3 @@
+[[redirects]]
+	from = "/blog/*"
+	to = "https://5ffca58f8402ca0008beb32c--tender-goldwasser-c50fcd.netlify.app/:splat"
