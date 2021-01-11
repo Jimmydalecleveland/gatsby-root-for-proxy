@@ -4,6 +4,11 @@ module.exports = {
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
+  proxy: {
+    prefix: "/blog",
+    url:
+      "https://5ffca58f8402ca0008beb32c--tender-goldwasser-c50fcd.netlify.app",
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
